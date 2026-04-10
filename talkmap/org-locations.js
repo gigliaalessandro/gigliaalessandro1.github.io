@@ -5,7 +5,7 @@ var addressPoints = [
     -0.9836342
   ],
   [
-    "On the Equivalence of Actualist and Potentialist set theories<br />University of Oslo; Oslo, Norway",
+    "Against the Equivalence of Actualist and Potentialist set theories<br />University of Oslo; Oslo, Norway",
     59.9133301,
     10.7389701
   ],
