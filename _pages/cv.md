@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here the Dawnload
+[Download the CV here](https://gigliaalessandro.github.io/files/CV.pdf)
