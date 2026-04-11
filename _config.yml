@@ -153,6 +153,12 @@ social:
   links: # An array of links to social media profiles
 
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-979CQLC03H"
+    anonymize_ip: true
+
 # Analytics
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
